@@ -1,4 +1,32 @@
-## Hi there 👋
+# Korbinian Kicker
+
+## About me
+
+- 19 years old
+- incoming CS student
+- Beginner GameDev
+- currently working on my TypeScript and Backend skills
+
+## Projects
+
+[Mailassist](github.com/korbiniankicker/mailassist)
+
+[The Coconut Chronicle](https://the-coconut-studios.itch.io/the-coconut-chronicle) (coming to GitHub soon)
+
+[N.I.T.E.M](https://the-coconut-studios.itch.io/nitem)
+
+[Beeware](https://github.com/korbiniankicker/Beeware)
+
+
+## Socials
+
+[LinkedIn](https://de.linkedin.com/in/korbinian-kicker-a8241436)
+
+[Itch.io](https://the-coconut-studios.itch.io/)
+
+## Other
+
+https://www.sueddeutsche.de/muenchen/landkreismuenchen/haar-ernst-mach-gymnasium-crossmedia-kreativpreis-3d-videospiel-li.3344215
 
 <!--
 **korbiniankicker/korbiniankicker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

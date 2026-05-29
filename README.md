@@ -9,7 +9,7 @@
 
 ## Projects
 
-[Mailassist](github.com/korbiniankicker/mailassist)
+[Mailassist](https://github.com/korbiniankicker/mailassist)
 
 [The Coconut Chronicle](https://the-coconut-studios.itch.io/the-coconut-chronicle) (coming to GitHub soon)
 

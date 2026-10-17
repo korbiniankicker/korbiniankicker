@@ -3,9 +3,7 @@
 ## About me
 
 - 19 years old
-- incoming CS student
-- Beginner GameDev
-- currently working on my TypeScript and Backend skills
+- CS@TUM
 
 ## Projects
 

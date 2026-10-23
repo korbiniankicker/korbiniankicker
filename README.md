@@ -9,7 +9,7 @@
 
 [Mailassist](https://github.com/korbiniankicker/mailassist)
 
-[The Coconut Chronicle](https://the-coconut-studios.itch.io/the-coconut-chronicle) (coming to GitHub soon)
+[The Coconut Chronicle](https://the-coconut-studios.itch.io/the-coconut-chronicle)
 
 [N.I.T.E.M](https://the-coconut-studios.itch.io/nitem)
 
